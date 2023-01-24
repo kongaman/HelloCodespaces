@@ -4,3 +4,4 @@
 2. Create Repo
 3. Create Codepace VM
 4. Modified the README file
+5. Work in Terminal
